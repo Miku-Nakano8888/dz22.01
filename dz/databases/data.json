@@ -1,0 +1,52 @@
+{
+    "PRODUCTS": {
+        "product1": {
+            "name": "Бонаква",
+            "amount": 35,
+            "price": "412$",
+            "avatar": "img/bonaqua.png"
+        },
+        "product2": {
+            "name": "Святой источник",
+            "amount": 3000,
+            "price": "4782$",
+            "avatar": "img/saint-spring.png"
+        },
+        "product3": {
+            "name": "Боровая",
+            "amount": 19000,
+            "price": "2$",
+            "avatar": "img/borovaya.png"
+        },
+        "product4": {
+            "name": "Минская",
+            "amount": 2,
+            "price": "23$",
+            "avatar": "img/minskaya.png"
+        },
+        "product5": {
+            "name": "Аура",
+            "amount": 10,
+            "price": "3$",
+            "avatar": "img/aura.png"
+        },
+        "product6": {
+            "name": "Виста",
+            "amount": -3000,
+            "price": "50$",
+            "avatar": "img/vista.png"
+        },
+        "product7": {
+            "name": "Аква минерале",
+            "amount": 500,
+            "price": "281$",
+            "avatar": "img/aqua-minerale.png"
+        },
+        "product8": {
+            "name": "Архыз",
+            "amount": 97,
+            "price": "39018$",
+            "avatar": "img/arhyz.png"
+        }
+    }
+}
